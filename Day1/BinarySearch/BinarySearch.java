@@ -34,3 +34,13 @@ public class BinarySearch {
         return -1;
     }
 }
+
+/*
+ * Time Complexity: O(log n)
+ * Reason: As the size of n increses, the number of iterations increases a very
+ * few times makiing it O(log n)
+ * 
+ * Space Complexity: O(1)
+ * Reason: As we're not using any extra space, hence the space complexity will
+ * be constant.
+ */
